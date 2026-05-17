@@ -48,7 +48,7 @@
 <tr>
 <td width="52%" valign="top">
 
-<img src="https://github.com/411222295.png" width="140" alt="Vanessa Huang"/>
+<img src="https://raw.githubusercontent.com/411222295/resume/main/assets/profile.png" width="180" alt="Vanessa Huang"/>
 
 <br/><br/>
 
