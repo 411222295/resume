@@ -10,6 +10,14 @@
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/411222295/resume/main/assets/profile.png" width="200" alt="Vanessa Huang"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/應徵方向-品牌行銷專員_·_國際專案協調_·_數位行銷-C4763A?style=for-the-badge&labelColor=1A1814" alt="Target Role"/>
+
+<br/>
+
 <img src="https://img.shields.io/badge/輔仁天主教大學-Fu_Jen_Catholic_University-C4763A?style=for-the-badge&labelColor=1A1814" alt="Fu Jen"/>
 <img src="https://img.shields.io/badge/GPA-3.94%2F4.0-1A1814?style=for-the-badge&labelColor=C4763A" alt="GPA"/>
 <img src="https://img.shields.io/badge/織品行銷-×_金融國企-雙主修-C4763A?style=for-the-badge&labelColor=1A1814" alt="Major"/>
@@ -83,6 +91,46 @@
 
 ---
 
+## ✍️ 自傳 · My Story
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+我成長於重視「把事情做好」的環境，進入輔仁後選擇 **織品行銷 × 金融國企雙主修**，希望同時具備品牌敘事與商業分析的能力。對我而言，行銷不是貼標籤，而是理解人、文化與價值如何被看見。
+
+**紐西蘭毛利文化共創**是我重要的轉折：與在地設計師一起發想永續原型，讓我決定把畢業專題投入 **酷魂 KUXUL**——以太魯閣族部落選物為核心，透過品牌重構、市集與社群，讓文化被尊重地傳遞。之後在 **UKL** 擔任行銷專員，我將課堂所學落地到 SEO/SEM、跨平台內容與媒體曝光；在 **ECLAT** 則磨練跨部門協調與活動執行力。
+
+我也持續走出舒適圈：**日本上智 Global Leaders**、**美國 UT Dallas Future Leaders**、**越南偏鄉志工**——四國經驗讓我學會在多元團隊中溝通、提案與交付。2025 年 **Erupture Hackathon 亞太第三名** 則讓我看見 AI 與商業結合的可能。
+
+**我想成為能把故事說清楚、用數據驗證策略、並能帶著團隊把計畫做完的人。** 期待在品牌行銷、國際專案或數位轉型相關職務中，持續創造可被衡量的影響。
+
+</td>
+<td width="38%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/411222295/resume/main/assets/gallery/global-utdallas-speech.jpg" width="100%" alt="UT Dallas Presentation"/>
+
+<br/><br/>
+
+[![Full Portfolio](https://img.shields.io/badge/🌐_完整作品集網頁-View_Portfolio_2026-C4763A?style=for-the-badge&labelColor=1A1814)](https://411222295.github.io/vanessa-huang/)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<svg xmlns="http://www.w3.org/2000/svg" width="90%" height="4" viewBox="0 0 900 4" preserveAspectRatio="none">
+  <defs><linearGradient id="g2b" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#1A1814" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#C4763A" stop-opacity="0.85"/>
+    <stop offset="100%" stop-color="#1A1814" stop-opacity="0"/>
+  </linearGradient></defs>
+  <rect width="900" height="4" fill="url(#g2b)" rx="2"/>
+</svg>
+</div>
+
+---
+
 ## 🏆 Awards & Achievements
 
 <div align="center">
@@ -115,16 +163,112 @@
 
 ---
 
+## 📸 Visual Story | 視覺足跡
+
+<div align="center">
+
+**🎨 設計 × 系刊 TCNEWS**
+
+<table>
+<tr>
+<td width="33%" align="center"><img src="https://raw.githubusercontent.com/411222295/resume/main/assets/gallery/tcnews-cover-1.jpg" width="100%" alt="TCNEWS Cover 1"/><br/><sub>系刊視覺設計</sub></td>
+<td width="33%" align="center"><img src="https://raw.githubusercontent.com/411222295/resume/main/assets/gallery/tcnews-cover-2.jpg" width="100%" alt="TCNEWS Cover 2"/><br/><sub>Slow Fashion 專題</sub></td>
+<td width="33%" align="center"><img src="https://raw.githubusercontent.com/411222295/resume/main/assets/gallery/tcnews-cover-3.jpg" width="100%" alt="TCNEWS Cover 3"/><br/><sub>Story mfg. 品牌專欄</sub></td>
+</tr>
+</table>
+
+<br/>
+
+**📣 品牌行銷 UKL · 永續氣候行動**
+
+<table>
+<tr>
+<td width="50%" align="center"><img src="https://raw.githubusercontent.com/411222295/resume/main/assets/gallery/brand-ukl-news.jpg" width="100%" alt="UKL Media Coverage"/><br/><sub>工商時報報導 · CC4CC 循環上衣</sub></td>
+<td width="50%" align="center"><img src="https://raw.githubusercontent.com/411222295/resume/main/assets/gallery/brand-ukl-product.jpg" width="100%" alt="UKL Product"/><br/><sub>產品視覺 · Show Your Stripes</sub></td>
+</tr>
+</table>
+
+<br/>
+
+**🌏 四國足跡**
+
+<table>
+<tr>
+<td width="33%" align="center"><img src="https://raw.githubusercontent.com/411222295/resume/main/assets/gallery/global-nz.jpg" width="100%" alt="New Zealand"/><br/><sub>🇳🇿 紐西蘭 · 毛利文化共創</sub></td>
+<td width="33%" align="center"><img src="https://raw.githubusercontent.com/411222295/resume/main/assets/gallery/global-japan.jpg" width="100%" alt="Japan"/><br/><sub>🇯🇵 日本 · Global Leaders</sub></td>
+<td width="33%" align="center"><img src="https://raw.githubusercontent.com/411222295/resume/main/assets/gallery/global-utdallas-speech.jpg" width="100%" alt="UT Dallas"/><br/><sub>🇺🇸 美國 · Future Leaders 提案</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center"><img src="https://raw.githubusercontent.com/411222295/resume/main/assets/gallery/global-utdallas-group.jpg" width="100%" alt="UT Dallas Group"/><br/><sub>🇺🇸 UT Dallas 論壇</sub></td>
+<td width="33%" align="center"><img src="https://raw.githubusercontent.com/411222295/resume/main/assets/gallery/global-workshop.jpg" width="100%" alt="Workshop"/><br/><sub>🌐 SDGs 跨國工作坊</sub></td>
+<td width="33%" align="center"><img src="https://raw.githubusercontent.com/411222295/resume/main/assets/gallery/volunteer-vn-1.jpg" width="100%" alt="Vietnam"/><br/><sub>🇻🇳 越南 · 偏鄉教育志工</sub></td>
+</tr>
+</table>
+
+<br/>
+
+**🤝 海外志工 · 文化共創**
+
+<table>
+<tr>
+<td width="33%" align="center"><img src="https://raw.githubusercontent.com/411222295/resume/main/assets/gallery/volunteer-vn-2.jpg" width="100%" alt="Vietnam Calligraphy"/><br/><sub>書法教學 · 跨文化連結</sub></td>
+<td width="33%" align="center"><img src="https://raw.githubusercontent.com/411222295/resume/main/assets/gallery/volunteer-vn-3.jpg" width="100%" alt="Vietnam Craft"/><br/><sub>社區手作 · 長者陪伴</sub></td>
+<td width="33%" align="center"><img src="https://raw.githubusercontent.com/411222295/resume/main/assets/gallery/global-tw.jpg" width="100%" alt="Taiwan"/><br/><sub>🇹🇼 跨域領導 · 團隊協作</sub></td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+<svg xmlns="http://www.w3.org/2000/svg" width="90%" height="4" viewBox="0 0 900 4" preserveAspectRatio="none">
+  <defs><linearGradient id="g3b" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#1A1814" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#C4763A" stop-opacity="0.85"/>
+    <stop offset="100%" stop-color="#1A1814" stop-opacity="0"/>
+  </linearGradient></defs>
+  <rect width="900" height="4" fill="url(#g3b)" rx="2"/>
+</svg>
+</div>
+
+---
+
 ## 🌏 International Experience
 
 <div align="center">
 
-| 🌏 | 國家 · 計畫 | 重點成果 | 期間 |
-|:---:|:---|:---|:---:|
-| 🇳🇿 | **教育部青年百億海外圓夢計劃**<br/>New Zealand · 毛利文化共創 | 與在地設計師共創永續原型，啟發畢業專題 **酷魂 KUXUL** | **3 週** |
-| 🇯🇵 | **Global Leaders Program**<br/>Sophia University, Tokyo | 亞太天主教大學聯盟 · ESD 永續發展教育 × SDGs 實踐 | **1 週** |
-| 🇺🇸 | **Future Leaders Program**<br/>UT Dallas, Texas | 跨國團隊 SDGs 提案 **獲第一名** | 數週 |
-| 🇻🇳 | **海外志工**<br/>Kon Tum, Vietnam | 英語教學 **150+** 偏鄉學童 · 募資物資發放 | 數週 |
+<table>
+<tr>
+<th>🌏</th><th>國家 · 計畫</th><th>影像紀錄</th><th>重點成果</th><th>期間</th>
+</tr>
+<tr>
+<td align="center">🇳🇿</td>
+<td><b>教育部青年百億海外圓夢計劃</b><br/>New Zealand · 毛利文化共創</td>
+<td align="center"><img src="https://raw.githubusercontent.com/411222295/resume/main/assets/gallery/global-nz.jpg" width="140" alt="NZ"/></td>
+<td>與在地設計師共創永續原型，啟發畢業專題 <b>酷魂 KUXUL</b></td>
+<td align="center"><b>3 週</b></td>
+</tr>
+<tr>
+<td align="center">🇯🇵</td>
+<td><b>Global Leaders Program</b><br/>Sophia University, Tokyo</td>
+<td align="center"><img src="https://raw.githubusercontent.com/411222295/resume/main/assets/gallery/global-japan.jpg" width="140" alt="Japan"/></td>
+<td>亞太天主教大學聯盟 · ESD 永續發展教育 × SDGs 實踐</td>
+<td align="center"><b>1 週</b></td>
+</tr>
+<tr>
+<td align="center">🇺🇸</td>
+<td><b>Future Leaders Program</b><br/>UT Dallas, Texas</td>
+<td align="center"><img src="https://raw.githubusercontent.com/411222295/resume/main/assets/gallery/global-utdallas-speech.jpg" width="140" alt="US"/></td>
+<td>跨國團隊 SDGs 提案 <b>獲第一名</b></td>
+<td align="center">數週</td>
+</tr>
+<tr>
+<td align="center">🇻🇳</td>
+<td><b>海外志工</b><br/>Kon Tum, Vietnam</td>
+<td align="center"><img src="https://raw.githubusercontent.com/411222295/resume/main/assets/gallery/volunteer-vn-1.jpg" width="140" alt="Vietnam"/></td>
+<td>英語教學 <b>150+</b> 偏鄉學童 · 募資物資發放</td>
+<td align="center">數週</td>
+</tr>
+</table>
 
 </div>
 
@@ -189,6 +333,10 @@
 ### 🏺 酷魂 KUXUL
 **台灣原住民太魯閣族 · 部落選物品牌重構**
 
+<img src="https://raw.githubusercontent.com/411222295/resume/main/assets/gallery/global-nz.jpg" width="100%" alt="KUXUL Inspiration NZ"/>
+
+<br/><br/>
+
 「kuxul」— 來自靈魂的一見鍾情<br/>
 Value Co-Creation · 實體市集 · 全渠道社群
 
@@ -201,18 +349,31 @@ Value Co-Creation · 實體市集 · 全渠道社群
 
 ### 其他代表作
 
-📱 **UKL Enterprise** — 行銷專員 · LINE VOOM<br/>
+📱 **UKL Enterprise** — 行銷專員 · 永續氣候行動
+
+<img src="https://raw.githubusercontent.com/411222295/resume/main/assets/gallery/brand-ukl-product.jpg" width="100%" alt="UKL Marketing"/>
+
+<br/>
+
 [![](https://img.shields.io/badge/View_UKL-C4763A?style=flat-square&labelColor=1A1814)](https://linevoom.line.me/user/_dcycmsUTiTP3uJkoLyV4-TJj3CHkz75lVopxRlI)
 
+<br/><br/>
+
+📰 **TCNEWS 系刊** — 織品系官方刊物
+
+<img src="https://raw.githubusercontent.com/411222295/resume/main/assets/gallery/tcnews-cover-2.jpg" width="100%" alt="TCNEWS"/>
+
 <br/>
 
-📰 **TCNEWS 系刊** — 織品系官方刊物網站<br/>
 [![](https://img.shields.io/badge/View_TCNEWS-1A1814?style=flat-square&labelColor=C4763A)](https://tcnews.info/)
 
-<br/>
+<br/><br/>
 
-🤖 **AI 人才媒合平台** — Erupture Hackathon MVP<br/>
+🤖 **AI 人才媒合平台** — Erupture Hackathon 亞太第三名
+
 [![](https://img.shields.io/badge/View_Demo-C4763A?style=flat-square&labelColor=1A1814)](https://silly-croquembouche-d81b0c.netlify.app/)
+
+[![](https://img.shields.io/badge/View_GitHub_Repo-1A1814?style=flat-square&labelColor=C4763A&logo=github)](https://github.com/411222295)
 
 </td>
 </tr>
