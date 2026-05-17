@@ -58,6 +58,7 @@
 
 <table>
 <tr><td>🎓 <b>GPA</b></td><td><b>3.94 / 4.0</b></td></tr>
+<tr><td>🎓 <b>畢專</b></td><td><b>最佳整體獎 · 優選 · 佳作（織脈傳承）</b></td></tr>
 <tr><td>🏆 <b>競賽</b></td><td><b>3× 亞太區 Hackathon / 創新賽 前三名</b></td></tr>
 <tr><td>🌏 <b>國際</b></td><td><b>紐西蘭 · 日本 · 美國 · 越南 — 4 國足跡</b></td></tr>
 <tr><td>📣 <b>語言</b></td><td>中文 · English · 台語</td></tr>
@@ -99,7 +100,7 @@
 
 我成長於重視「把事情做好」的環境，進入輔仁後選擇 **織品行銷 × 金融國企雙主修**，希望同時具備品牌敘事與商業分析的能力。對我而言，行銷不是貼標籤，而是理解人、文化與價值如何被看見。
 
-**紐西蘭毛利文化共創**是我重要的轉折：與在地設計師一起發想永續原型，讓我決定把畢業專題投入 **酷魂 KUXUL**——以太魯閣族部落選物為核心，透過品牌重構、市集與社群，讓文化被尊重地傳遞。之後在 **UKL** 擔任行銷專員，我將課堂所學落地到 SEO/SEM、跨平台內容與媒體曝光；在 **ECLAT** 則磨練跨部門協調與活動執行力。
+**紐西蘭毛利文化共創**是我重要的轉折：與在地設計師一起發想永續原型，讓我決定把畢業專題投入 **「織脈傳承」× 酷魂 KUXUL**——以太魯閣族部落選物為核心，透過品牌重構、市集與社群，讓文化被尊重地傳遞。此專題於 2026 畢業成果發表獲 **最佳整體獎、創意企劃類優選與佳作**。之後在 **UKL** 擔任行銷專員，我將課堂所學落地到 SEO/SEM、跨平台內容與媒體曝光；在 **ECLAT** 則磨練跨部門協調與活動執行力。
 
 我也持續走出舒適圈：**日本上智 Global Leaders**、**美國 UT Dallas Future Leaders**、**越南偏鄉志工**——四國經驗讓我學會在多元團隊中溝通、提案與交付。2025 年 **Erupture Hackathon 亞太第三名** 則讓我看見 AI 與商業結合的可能。
 
@@ -134,6 +135,24 @@
 ## 🏆 Awards & Achievements
 
 <div align="center">
+
+### 🎓 畢業專題 · 織脈傳承｜原民文創品牌重構計畫
+
+<img src="https://raw.githubusercontent.com/411222295/resume/main/assets/gallery/graduation-awards.png" width="92%" alt="畢業專題獲獎團隊合照"/>
+
+<br/><br/>
+
+![最佳整體獎](https://img.shields.io/badge/🏆_2026_畢業專題發表暨靜態展-最佳整體獎-C4763A?style=for-the-badge&logoColor=white&labelColor=1A1814)
+![優選](https://img.shields.io/badge/🥇_2026_畢業專題發表-創意企劃類_優選-C4763A?style=for-the-badge&logoColor=white&labelColor=1A1814)
+![佳作](https://img.shields.io/badge/🥈_2026_畢業專題靜態展-創意企劃類_佳作-1A1814?style=for-the-badge&logoColor=C4763A&labelColor=C4763A)
+
+<br/>
+
+<sub>輔仁大學織品服飾學系行銷組 · 第 53 屆畢業成果發表 · 酷魂 KUXUL 品牌重構</sub>
+
+<br/><br/>
+
+---
 
 [![Erupture Hackathon](https://img.shields.io/badge/🥉_2025_Erupture_Global_Hackathon-第三名_·_亞太區-C4763A?style=for-the-badge&logoColor=white&labelColor=1A1814)](https://silly-croquembouche-d81b0c.netlify.app/)
 ![iLink](https://img.shields.io/badge/🥉_2025_iLink_北區跨域競賽-第三名-C4763A?style=for-the-badge&logoColor=white&labelColor=1A1814)
@@ -330,10 +349,16 @@
 <tr>
 <td align="center" width="50%">
 
-### 🏺 酷魂 KUXUL
-**台灣原住民太魯閣族 · 部落選物品牌重構**
+### 🏺 酷魂 KUXUL · 織脈傳承
+**台灣原住民太魯閣族 · 原民文創品牌重構計畫**
 
-<img src="https://raw.githubusercontent.com/411222295/resume/main/assets/gallery/global-nz.jpg" width="100%" alt="KUXUL Inspiration NZ"/>
+<img src="https://raw.githubusercontent.com/411222295/resume/main/assets/gallery/graduation-awards.png" width="100%" alt="畢業專題獲獎"/>
+
+<br/>
+
+![最佳整體獎](https://img.shields.io/badge/最佳整體獎-畢業專題發表暨靜態展-C4763A?style=flat-square&labelColor=1A1814)
+![優選](https://img.shields.io/badge/優選-創意企劃類_畢業專題發表-C4763A?style=flat-square&labelColor=1A1814)
+![佳作](https://img.shields.io/badge/佳作-創意企劃類_靜態展-1A1814?style=flat-square&labelColor=C4763A)
 
 <br/><br/>
 
