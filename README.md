@@ -55,12 +55,12 @@
 
 我將文化行銷、國際實踐與社會創新結合，從紐西蘭毛利共創到太魯閣族 **酷魂 KUXUL** 品牌重構，用設計說故事、用數據驗策略、用行動跨邊界。
 
-| | |
-|:---|:---|
-| 🎓 **GPA** | **3.94 / 4.0** |
-| 🏆 **競賽** | **3× 亞太區 Hackathon / 創新賽 前三名** |
-| 🌏 **國際** | **紐西蘭 · 日本 · 美國 · 越南 — 4 國足跡** |
-| 📣 **語言** | 中文 · English · 台語 |
+<table>
+<tr><td>🎓 <b>GPA</b></td><td><b>3.94 / 4.0</b></td></tr>
+<tr><td>🏆 <b>競賽</b></td><td><b>3× 亞太區 Hackathon / 創新賽 前三名</b></td></tr>
+<tr><td>🌏 <b>國際</b></td><td><b>紐西蘭 · 日本 · 美國 · 越南 — 4 國足跡</b></td></tr>
+<tr><td>📣 <b>語言</b></td><td>中文 · English · 台語</td></tr>
+</table>
 
 **Now exploring :** AI 商業化 × 品牌策略 · 數位轉型 × 永續設計 · 跨文化領導 × 社群經營
 
@@ -68,10 +68,6 @@
 <td width="48%" valign="top" align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=411222295&show_icons=true&hide_border=false&title_color=C4763A&icon_color=C4763A&text_color=F7F4EF&bg_color=1A1814&border_color=C4763A&ring_color=C4763A&rank_icon=github" alt="GitHub Stats" width="100%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=411222295&layout=compact&hide_border=false&title_color=C4763A&text_color=F7F4EF&bg_color=1A1814&border_color=C4763A&langs_count=8" alt="Top Languages" width="100%"/>
 
 <br/>
 
@@ -99,17 +95,17 @@
 <div align="center">
 
 [![Erupture Hackathon](https://img.shields.io/badge/🥉_2025_Erupture_Global_Hackathon-第三名_·_亞太區-C4763A?style=for-the-badge&logoColor=white&labelColor=1A1814)](https://silly-croquembouche-d81b0c.netlify.app/)
-[![iLink](https://img.shields.io/badge/🥉_2025_iLink_北區跨域競賽-第三名-C4763A?style=for-the-badge&logoColor=white&labelColor=1A1814)]()
-[![服務創新](https://img.shields.io/badge/🥉_2024_全國服務創新跨界共創大賽-第三名-C4763A?style=for-the-badge&logoColor=white&labelColor=1A1814)]()
+![iLink](https://img.shields.io/badge/🥉_2025_iLink_北區跨域競賽-第三名-C4763A?style=for-the-badge&logoColor=white&labelColor=1A1814)
+![服務創新](https://img.shields.io/badge/🥉_2024_全國服務創新跨界共創大賽-第三名-C4763A?style=for-the-badge&logoColor=white&labelColor=1A1814)
 
 <br/>
 
-[![教宗獎學金](https://img.shields.io/badge/🎖_聖若望保祿二世教宗獎學金-2024-C4763A?style=for-the-badge&logoColor=white&labelColor=1A1814)]()
-[![國際領導](https://img.shields.io/badge/🎖_輔仁傑出國際領導人才獎學金-2024-C4763A?style=for-the-badge&logoColor=white&labelColor=1A1814)]()
+![教宗獎學金](https://img.shields.io/badge/🎖_聖若望保祿二世教宗獎學金-2024-C4763A?style=for-the-badge&logoColor=white&labelColor=1A1814)
+![國際領導](https://img.shields.io/badge/🎖_輔仁傑出國際領導人才獎學金-2024-C4763A?style=for-the-badge&logoColor=white&labelColor=1A1814)
 
 <br/>
 
-[![UT Dallas](https://img.shields.io/badge/🇺🇸_Future_Leaders_Program_UT_Dallas-提案第一名-1A1814?style=for-the-badge&logoColor=C4763A&labelColor=C4763A)]()
+![UT Dallas](https://img.shields.io/badge/Future_Leaders_UT_Dallas-提案第一名-1A1814?style=for-the-badge&logoColor=C4763A&labelColor=C4763A)
 
 </div>
 
@@ -130,7 +126,7 @@
 
 <div align="center">
 
-| | 國家 · 計畫 | 重點成果 | 期間 |
+| 🌏 | 國家 · 計畫 | 重點成果 | 期間 |
 |:---:|:---|:---|:---:|
 | 🇳🇿 | **教育部青年百億海外圓夢計劃**<br/>New Zealand · 毛利文化共創 | 與在地設計師共創永續原型，啟發畢業專題 **酷魂 KUXUL** | **3 週** |
 | 🇯🇵 | **Global Leaders Program**<br/>Sophia University, Tokyo | 亞太天主教大學聯盟 · ESD 永續發展教育 × SDGs 實踐 | **1 週** |
@@ -212,11 +208,18 @@ Value Co-Creation · 實體市集 · 全渠道社群
 
 ### 其他代表作
 
-| 專案 | 說明 | |
-|:---|:---|:---:|
-| 📱 **UKL Enterprise** | 行銷專員 · LINE VOOM 經營 | [![](https://img.shields.io/badge/View-C4763A?style=flat-square&labelColor=1A1814)](https://linevoom.line.me/user/_dcycmsUTiTP3uJkoLyV4-TJj3CHkz75lVopxRlI) |
-| 📰 **TCNEWS 系刊** | 織品系官方刊物網站 | [![](https://img.shields.io/badge/View-1A1814?style=flat-square&labelColor=C4763A)](https://tcnews.info/) |
-| 🤖 **AI 人才媒合平台** | Erupture Hackathon MVP Demo | [![](https://img.shields.io/badge/Demo-C4763A?style=flat-square&labelColor=1A1814)](https://silly-croquembouche-d81b0c.netlify.app/) |
+📱 **UKL Enterprise** — 行銷專員 · LINE VOOM<br/>
+[![](https://img.shields.io/badge/View_UKL-C4763A?style=flat-square&labelColor=1A1814)](https://linevoom.line.me/user/_dcycmsUTiTP3uJkoLyV4-TJj3CHkz75lVopxRlI)
+
+<br/>
+
+📰 **TCNEWS 系刊** — 織品系官方刊物網站<br/>
+[![](https://img.shields.io/badge/View_TCNEWS-1A1814?style=flat-square&labelColor=C4763A)](https://tcnews.info/)
+
+<br/>
+
+🤖 **AI 人才媒合平台** — Erupture Hackathon MVP<br/>
+[![](https://img.shields.io/badge/View_Demo-C4763A?style=flat-square&labelColor=1A1814)](https://silly-croquembouche-d81b0c.netlify.app/)
 
 </td>
 </tr>
@@ -270,11 +273,11 @@ Value Co-Creation · 實體市集 · 全渠道社群
 
 **🌐 語言認證**
 
-[![TOEIC](https://img.shields.io/badge/TOEIC-790-C4763A?style=flat-square&labelColor=1A1814)]()
-[![IELTS](https://img.shields.io/badge/IELTS-6.5-C4763A?style=flat-square&labelColor=1A1814)]()
-[![國貿大會考](https://img.shields.io/badge/國貿大會考-通過-1A1814?style=flat-square&labelColor=C4763A&color=C4763A)]()
-[![中文](https://img.shields.io/badge/中文-母語-C4763A?style=flat-square&labelColor=1A1814)]()
-[![English](https://img.shields.io/badge/English-商務溝通-1A1814?style=flat-square&labelColor=C4763A&color=C4763A)]()
+![TOEIC](https://img.shields.io/badge/TOEIC-790-C4763A?style=flat-square&labelColor=1A1814)
+![IELTS](https://img.shields.io/badge/IELTS-6.5-C4763A?style=flat-square&labelColor=1A1814)
+![國貿大會考](https://img.shields.io/badge/國貿大會考-通過-1A1814?style=flat-square&labelColor=C4763A&color=C4763A)
+![中文](https://img.shields.io/badge/中文-母語-C4763A?style=flat-square&labelColor=1A1814)
+![English](https://img.shields.io/badge/English-商務溝通-1A1814?style=flat-square&labelColor=C4763A&color=C4763A)
 
 </div>
 
