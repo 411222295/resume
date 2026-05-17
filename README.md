@@ -48,6 +48,10 @@
 <tr>
 <td width="52%" valign="top">
 
+<img src="https://github.com/411222295.png" width="140" alt="Vanessa Huang"/>
+
+<br/><br/>
+
 ### 黃毓庭 · Vanessa Huang
 
 就讀 **輔仁天主教大學（Fu Jen Catholic University）**<br/>
@@ -67,11 +71,11 @@
 </td>
 <td width="48%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=411222295&show_icons=true&hide_border=false&title_color=C4763A&icon_color=C4763A&text_color=F7F4EF&bg_color=1A1814&border_color=C4763A&ring_color=C4763A&rank_icon=github" alt="GitHub Stats" width="100%"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=411222295&theme=dark&background=1A1814&border=C4763A&ring=C4763A&fire=C4763A&currStreakNum=F7F4EF&sideNums=F7F4EF&currStreakLabel=C4763A&sideLabels=ABA49C&dates=6B6560" alt="GitHub Streak" width="100%"/>
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-@411222295-C4763A?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1814)](https://github.com/411222295)
 
 </td>
 </tr>
@@ -323,7 +327,7 @@ Value Co-Creation · 實體市集 · 全渠道社群
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=400&size=16&duration=5000&pause=2500&color=ABA49C&center=true&vCenter=true&width=640&height=36&lines=Fu+Jen+Catholic+University+%C2%B7+Fashion+Marketing+%C3%97+Finance+%26+IB+%C2%B7+GPA+3.94" alt="Footer tagline"/>
+<sub>Fu Jen Catholic University · Fashion Marketing × Finance & International Business</sub>
 
 <br/><br/>
 
