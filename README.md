@@ -2,9 +2,7 @@
 
 <!-- ═══════════════════ SECTION 1 · HERO ═══════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=32&duration=3000&pause=800&color=C4763A&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=60&lines=黃毓庭+Vanessa+Huang+👋;Fashion+Marketing+×+Finance+💼;Brand+Strategist+×+AI+Enthusiast+🚀;Cultural+Bridge+Builder+🌏" alt="Typing SVG" />
-
-<br/>
+# 黃毓庭 Vanessa Huang 👋
 
 **雙主修生 × 品牌策略師 × 跨文化行動者**
 
@@ -28,15 +26,6 @@
   </defs>
   <rect width="900" height="6" fill="url(#g1)" rx="3"/>
 </svg>
-
-<br/>
-
-<!-- Contribution Snake — 由 GitHub Actions 自動生成至 output 分支 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/411222295/resume/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/411222295/resume/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/411222295/resume/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
-</picture>
 
 </div>
 
@@ -328,10 +317,6 @@ Value Co-Creation · 實體市集 · 全渠道社群
 <br/>
 
 <sub>Fu Jen Catholic University · Fashion Marketing × Finance & International Business</sub>
-
-<br/><br/>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=411222295.resume&left_color=1A1814&right_color=C4763A&left_text=Visitors)
 
 <br/>
 
